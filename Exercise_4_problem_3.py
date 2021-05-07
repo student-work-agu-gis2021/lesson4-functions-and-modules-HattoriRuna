@@ -118,9 +118,9 @@ print(zeros,ones,twos,threes)
 # - If you have any comments and concerns at this point, you can write them below:
 
 # YOUR ANSWER HERE. Write your answer as comments (with #)
-#
-#
-#
+# All variables are correct.
+# I added comments to each code.
+# My function has an informative dosctring.
 #
 #
 # YOUR ANSWER ENDS HERE.
