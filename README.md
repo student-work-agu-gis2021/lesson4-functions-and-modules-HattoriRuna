@@ -2,7 +2,6 @@
 # Exercise 4 - 
 
 YOUR NAME: Runa Hattori
-Runa Hattori
 
 STUDENT NUMBER: 15719075
 
