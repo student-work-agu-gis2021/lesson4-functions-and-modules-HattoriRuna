@@ -25,6 +25,7 @@
 
 
 # YOUR CODE HERE to define temp_classifier
+# function to reclassify temperature
 def temp_classifier(temp_celsius):
   """
   purpose of the function : reclassify the entered temperature
@@ -44,9 +45,11 @@ def temp_classifier(temp_celsius):
 
 # 1. What is the class value for 16.5 degrees Celsius?
 # YOUR CODE HERE
+# 16.5 degrees Celsius class value print
 print("tp",temp_classifier(16.5))
 # 2. What is the class value for +2 degrees Celsius?
 # YOUR CODE HERE
+# +2 degrees Celsius class value print
 print("tp",temp_classifier(2))
 
 
@@ -79,9 +82,9 @@ print("ok :)")
 #  - Does your function has an informative dosctring?
 
 # YOUR ANSWER HERE. Write your answer as comments
-#
-#
-#
+#  -  All variables are correct.
+#  -  I added comments to each code.
+#  -  My function has an informative dosctring.
 #
 #
 # YOUR ANSWER ENDS HERE
