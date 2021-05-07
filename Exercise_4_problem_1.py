@@ -52,8 +52,8 @@ print("71 degrees Fahrenheit in Celsius is:", fahr_to_celsius(71))
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
-#
-#
+# 1. Yes. I understand.
+# 2. The advantage of functions is that they make your code easier to read and prevent duplication.
 #
 #
 
